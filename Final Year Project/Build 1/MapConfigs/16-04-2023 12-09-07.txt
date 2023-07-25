@@ -1,0 +1,33 @@
+Seed: -870930738
+Map Size: 150,150
+Room Size Bounds: [5,15],[5,15]
+Tile Size: 1
+Corridor Width: 2
+Map % to be rooms: 0.1
+Room Height: 3
+Wall Depth: 0.25
+Doorway Width: 2
+Doorway Height: 2.5
+Empty Room Chance: 0.5
+Exit room chance: 0.02
+Small Chest Room Chance: 0.3
+Large Chest Room Chance 0.18
+Straight chance: [0.3,1.5]
+Corner Chance: [0.1,0.3]
+Two way chance: [0.005,0.03]
+Three way chance: [0.005,0.01]
+---Map Generation---
+Variable/Object holder preparation: 0.005058289
+Rooms Generated: 0.0009813309
+Total Rooms Generated: 27
+Doors Generated: 0.002185822
+Destroy invalid rooms:6.103516E-05
+Total destroyed rooms: 0
+Corridor generation: 0.01733685
+Grid to map interpreter: 0.09014606
+Decorate rooms: 0.007927895
+---Generation Complete---
+Time taken:0.1236973
+Total Claimed Tiles: 5654
+Tile accessible from spawn: 487
+---End---
